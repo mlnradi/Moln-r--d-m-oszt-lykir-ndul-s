@@ -1,0 +1,29 @@
+body {
+    
+    background: #aaaaaa;
+    }
+h1{
+    text-align: center;
+    padding: 15px;
+}
+
+#rhkrumpli{}
+
+#rhrizs{}
+
+img{
+    width: 500px;
+}
+table{
+    margin: auto;
+}
+td{
+    padding: 40px;
+}
+
+#pkozep{
+    text-align: center;
+    font-size: 1.5em;
+    padding: 10px;
+    font-weight: bold;
+}
