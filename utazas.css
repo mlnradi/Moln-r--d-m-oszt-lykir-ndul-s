@@ -1,8 +1,9 @@
 body {
-    background: #aaaaaa;
+    background: #f0f0f0;
     }
 
     h1{
         text-align: center;
         padding: 15px;
+        padding-bottom: 100px;
     }
