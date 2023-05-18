@@ -7,7 +7,7 @@ p {
     }
     body {
     font-family: 'Poor Story', cursive;
-    background: #5b9489;
+    background: #aaaaaa;
     }
     .container {
     width: 100%;
@@ -44,4 +44,10 @@ p {
     justify-content: center;
     align-items: center;
     font-size: 25px;
+    }
+    h1{
+        text-align: center;
+        font-size: 2.8em;
+        font-weight: bolder;
+        padding: 15px;
     }
