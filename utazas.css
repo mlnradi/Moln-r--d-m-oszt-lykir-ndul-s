@@ -17,3 +17,6 @@ body {
 .haza, .haza2, .haza3{
     padding: 20px;
 }
+footer{
+    float: left;
+}
