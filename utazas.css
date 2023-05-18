@@ -6,7 +6,7 @@ body {
     h1{
         text-align: center;
         padding: 15px;
-        padding-bottom: 100px;
+        padding-bottom: 50px;
     }
 
     img{
@@ -15,8 +15,14 @@ body {
     }
 
 .haza, .haza2, .haza3{
-    padding: 20px;
+    padding: 25px;
 }
 footer{
     float: left;
+}
+.ind{
+    padding: 20px;
+}
+.erk{
+    padding: 20px;
 }
